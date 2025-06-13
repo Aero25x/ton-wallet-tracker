@@ -8,15 +8,23 @@
 ![image](https://github.com/user-attachments/assets/a9499229-d405-4fa8-aa98-d5cd03c32cd7)
 
 
+
+Windows 10 / 11
 ```
 pip install websockets
+python track_ton.py
 ```
 
 
-
+Linux/ Mac
 ```
 pip3 install websockets
+python3 track_ton.py
 ```
+
+
+
+
 
 [![Join our Telegram RU](https://img.shields.io/badge/Telegram-RU-03A500?style=for-the-badge&logo=telegram&logoColor=white&labelColor=blue&color=red)](https://t.me/hidden_coding)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aero25x)
