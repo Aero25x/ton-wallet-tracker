@@ -12,14 +12,14 @@
 Windows 10 / 11
 ```
 pip install websockets
-python track_ton.py
+python ton_track.py
 ```
 
 
 Linux/ Mac
 ```
 pip3 install websockets
-python3 track_ton.py
+python3 ton_track.py
 ```
 
 
